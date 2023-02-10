@@ -1,0 +1,3 @@
+#!/bin/bash
+if only 
+chown --from=guilance hello   betty
