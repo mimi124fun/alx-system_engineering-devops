@@ -1,3 +1,2 @@
-#!/bin/bash
-if only 
+#!/bin/bas
 chown --from=guilance   betty  hello
