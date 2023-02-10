@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 chown --from=guilance   betty  hello
