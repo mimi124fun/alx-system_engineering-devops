@@ -1,2 +1,2 @@
-shell redirections fills
-why? 
+#!/bin/bash
+shell redirections fill 
